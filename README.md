@@ -63,19 +63,15 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ksaivishnusaikvs&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api.svg?username=ksaivishnusaikvs&show_icons=true&theme=tokyonight&hide_border=true"
     height="170"
-    alt="GitHub overview stats for ksaivishnusaikvs"
-    title="GitHub overview — ksaivishnusaikvs"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksaivishnusaikvs&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs.svg?username=ksaivishnusaikvs&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=ksaivishnusaikvs"
     height="150"
-    alt="Top languages used by ksaivishnusaikvs"
-    title="Top languages — ksaivishnusaikvs"
   />
 </p>
 
@@ -83,9 +79,5 @@
   <img
     src="https://streak-stats.demolab.com?user=ksaivishnusaikvs&theme=tokyonight&hide_border=true"
     height="170"
-    alt="GitHub contribution streak for ksaivishnusaikvs"
-    title="Contribution streak — ksaivishnusaikvs"
   />
 </p>
-
-
