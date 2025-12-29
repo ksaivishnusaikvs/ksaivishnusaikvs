@@ -2,7 +2,6 @@
 <!-- GitHub Profile README (FINAL)  -->
 <!-- =============================== -->
 
-<!-- ===== TOP BANNER ===== -->
 <p align="center">
   <a href="https://www.linkedin.com/in/vishnusai-14107a256/" target="_blank">
     <img src="Banner.png.jpg" alt="DevOps Engineer Banner" width="100%" />
@@ -12,7 +11,7 @@
 <h2 align="center">Vishnu Sai — DevOps Engineer</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ksaivishnusaikvs&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ksaivishnusaikvs&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
@@ -21,7 +20,7 @@
 - 🔹 DevOps & Cloud Engineer  
 - 🔹 Infrastructure Automation & Cloud FinOps  
 - 🔹 AWS | Kubernetes | Terraform | Docker | Ansible  
-- 🔹 CI/CD | Linux | Git | AI / MLOps  
+- 🔹 CI/CD | Linux | Git
 
 📂 **Projects:** https://github.com/ksaivishnusaikvs?tab=repositories  
 📫 **Email:** vishnusai.vks@gmail.com  
@@ -53,27 +52,27 @@
 
 ---
 
-## 🔥 DevOps-Style GitHub Stats
-
+## 🔥 DevOps-Style GitHub Stats (served from this repo)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksaivishnusaikvs&show_icons=true&count_private=true&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/ksaivishnusaikvs/ksaivishnusaikvs/main/assets/stats/github-stats.svg" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksaivishnusaikvs&layout=compact&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/ksaivishnusaikvs/ksaivishnusaikvs/main/assets/stats/top-langs.svg" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ksaivishnusaikvs&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/ksaivishnusaikvs/ksaivishnusaikvs/main/assets/stats/streak.svg" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🔐 DevSecOps
+## 🔐 DevSecOps Badges
 <p>
   <img src="https://img.shields.io/badge/DevSecOps-Secure_Pipelines-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SAST%20%7C%20DAST-Enabled-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Secrets-Managed-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IaC-Terraform-purple?style=for-the-badge"/>
 </p>
 
 ---
@@ -90,9 +89,9 @@
 
 ---
 
-## 📉 Contribution Snake
+## 📉 Contribution Snake (served from this repo)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ksaivishnusaikvs/ksaivishnusaikvs/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ksaivishnusaikvs/ksaivishnusaikvs/main/assets/stats/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
 ---
