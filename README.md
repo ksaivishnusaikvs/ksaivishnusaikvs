@@ -5,27 +5,26 @@
 <!-- ===== TOP BANNER ===== -->
 <p align="center">
   <a href="https://www.linkedin.com/in/vishnusai-14107a256/" target="_blank">
-    <img src="./Banner.png.jpg" alt="DevOps Engineer Banner" width="100%" />
+    <img src="Banner.png" alt="DevOps Engineer Banner" width="100%" />
   </a>
 </p>
 
 <h2 align="center">Vishnu Sai — DevOps Engineer</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ksaivishnusaikvs&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ksaivishnusaikvs&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🔹 DevOps & Cloud Engineer
-- 🔹 Infrastructure Automation & Cloud FinOps
-- 🔹 AWS | Kubernetes | Terraform | Docker | Ansible
-- 🔹 CI/CD | Linux | Git | AI/MLOps
+- 🔹 DevOps & Cloud Engineer  
+- 🔹 Infrastructure Automation & Cloud FinOps  
+- 🔹 AWS | Kubernetes | Terraform | Docker | Ansible  
+- 🔹 CI/CD | Linux | Git | AI / MLOps  
 
 📂 **Projects:** https://github.com/ksaivishnusaikvs?tab=repositories  
 📫 **Email:** vishnusai.vks@gmail.com  
-📄 **Profile Repo:** https://github.com/ksaivishnusaikvs/ksaivishnusaikvs  
 
 ---
 
@@ -60,17 +59,28 @@
 ---
 
 ## 📊 GitHub Stats
-<p>
-  <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=ksaivishnusaikvs&layout=compact&show_icons=true"/>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ksaivishnusaikvs&show_icons=true&count_private=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
 </p>
 
-<p>
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=ksaivishnusaikvs&show_icons=true"/>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksaivishnusaikvs&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
 </p>
 
-<p>
-  <img align="center"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=ksaivishnusaikvs"/>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=ksaivishnusaikvs&theme=tokyonight"
+    alt="GitHub Streak"
+  />
 </p>
+
+---
+
+⭐️ *Building reliable systems, automating everything, and keeping cloud costs under control.*
