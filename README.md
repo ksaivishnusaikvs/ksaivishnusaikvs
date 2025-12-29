@@ -63,21 +63,21 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api.svg?username=ksaivishnusaikvs&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=ksaivishnusaikvs&show_icons=true"
     height="170"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs.svg?username=ksaivishnusaikvs&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=ksaivishnusaikvs"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ksaivishnusaikvs&layout=compact"
     height="150"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=ksaivishnusaikvs&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com?user=ksaivishnusaikvs"
     height="170"
   />
 </p>
