@@ -65,6 +65,8 @@
   <img
     src="https://github-readme-stats.vercel.app/api?username=ksaivishnusaikvs&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600"
     height="170"
+    alt="GitHub overview stats for ksaivishnusaikvs"
+    title="GitHub overview — ksaivishnusaikvs"
   />
 </p>
 
@@ -72,6 +74,8 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksaivishnusaikvs&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600"
     height="150"
+    alt="Top languages used by ksaivishnusaikvs"
+    title="Top languages — ksaivishnusaikvs"
   />
 </p>
 
@@ -79,6 +83,9 @@
   <img
     src="https://streak-stats.demolab.com?user=ksaivishnusaikvs&theme=tokyonight&hide_border=true"
     height="170"
+    alt="GitHub contribution streak for ksaivishnusaikvs"
+    title="Contribution streak — ksaivishnusaikvs"
   />
 </p>
+
 
