@@ -62,12 +62,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ksaivishnusaikvs?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/ksaivishnusaikvs?label=Stars&style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ksaivishnusaikvs&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=300" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/ksaivishnusaikvs/ksaivishnusaikvs?label=Commits&style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/ksaivishnusaikvs/ksaivishnusaikvs?label=Last%20Commit&style=for-the-badge" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksaivishnusaikvs&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksaivishnusaikvs&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=300"/>
+</p>
+
+
 
