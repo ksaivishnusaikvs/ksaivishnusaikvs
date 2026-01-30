@@ -1,5 +1,5 @@
 <!-- =============================== -->
-<!-- GitHub Profile README (FIXED) -->
+<!-- GitHub Profile README (FINAL) -->
 <!-- =============================== -->
 
 <!-- ===== TOP BANNER ===== -->
@@ -12,7 +12,7 @@
 <h2 align="center">Vishnu Sai — DevOps Engineer</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ksaivishnusaikvs&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ksaivishnusaikvs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -123,13 +123,15 @@ fun_fact: "I automate my coffee breaks ☕"
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ksaivishnusaikvs?label=Followers&style=for-the-badge" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/ksaivishnusaikvs?label=Stars&style=for-the-badge" alt="Stars"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ksaivishnusaikvs&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/ksaivishnusaikvs/ksaivishnusaikvs?label=Commits&style=for-the-badge" alt="Commits"/>
-  <img src="https://img.shields.io/github/last-commit/ksaivishnusaikvs/ksaivishnusaikvs?label=Last%20Commit&style=for-the-badge" alt="Last Commit"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksaivishnusaikvs&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksaivishnusaikvs&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
