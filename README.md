@@ -16,10 +16,10 @@
 
 ## 👨‍💻 About Me
 
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding GIF" width="350" />
-</p>
-
+<table>
+  <tr>
+    <td width="50%">
+      
 - 🔹 DevOps & Cloud Engineer
 - 🔹 Infrastructure Automation & Cloud FinOps
 - 🔹 AWS | Kubernetes | Terraform | Docker | Ansible
@@ -27,7 +27,13 @@
 
 📂 **Projects:** https://github.com/ksaivishnusaikvs?tab=repositories  
 📫 **Email:** vishnusai.vks@gmail.com  
-📄 **Profile Repo:** https://github.com/ksaivishnusaikvs/ksaivishnusaikvs  
+📄 **Profile Repo:** https://github.com/ksaivishnusaikvs/ksaivishnusaikvs
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="DevOps Engineer" width="90%" max-width="400px" />
+    </td>
+  </tr>
+</table>  
 
 ---
 
