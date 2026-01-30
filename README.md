@@ -23,10 +23,10 @@
   <tr>
     <td width="60%">
       <ul>
-        <li><strong>🔹 DevOps & Cloud Engineer</strong></li>
-        <li><strong>🔹 Infrastructure Automation & Cloud FinOps</strong></li>
-        <li><strong>🔹 AWS | Kubernetes | Terraform | Docker | Ansible</strong></li>
-        <li><strong>🔹 CI/CD | Linux | Git | AI/MLOps</strong></li>
+        <li><strong>  DevOps & Cloud Engineer</strong></li>
+        <li><strong>  Infrastructure Automation & Cloud FinOps</strong></li>
+        <li><strong>  AWS | Kubernetes | Terraform | Docker | Ansible</strong></li>
+        <li><strong>  CI/CD | Linux | Git | AI/MLOps</strong></li>
       </ul>
     </td>
     <td width="40%" align="center">
