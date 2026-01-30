@@ -18,6 +18,7 @@
 ---
 
 ## 👨‍💻 About Me
+
 - 🔹 DevOps & Cloud Engineer
 - 🔹 Infrastructure Automation & Cloud FinOps
 - 🔹 AWS | Kubernetes | Terraform | Docker | Ansible
@@ -30,6 +31,7 @@
 ---
 
 ## 🤝 Connect with Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/vishnusai-14107a256/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -42,6 +44,7 @@
 ---
 
 ## 🛠️ Languages & Tools
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/>
@@ -58,6 +61,7 @@
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -69,8 +73,3 @@
   <img src="https://img.shields.io/github/commit-activity/y/ksaivishnusaikvs/ksaivishnusaikvs?label=Commits&style=for-the-badge" />
   <img src="https://img.shields.io/github/last-commit/ksaivishnusaikvs/ksaivishnusaikvs?label=Last%20Commit&style=for-the-badge" />
 </p>
-
-
-
-
-
