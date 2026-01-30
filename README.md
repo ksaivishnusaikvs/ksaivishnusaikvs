@@ -1,18 +1,16 @@
 <!-- =============================== -->
-<!-- GitHub Profile README (FINAL ENHANCED) -->
+<!-- GitHub Profile README (FINAL)  -->
 <!-- =============================== -->
 
-<!-- ===== TOP BANNER ===== -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/vishnusai-14107a256/" target="_blank">
-    <img src="./Banner.png.jpg" alt="DevOps Engineer Banner" width="100%" />
-  </a>
-</p>
+<div align="center">
+  <img src="./Banner.png.jpg" alt="DevOps Engineer Banner" width="100%" />
+</div>
 
-<h2 align="center">Vishnu Sai — DevOps & Cloud Engineer</h2>
+<h1 align="center">Vishnu Sai</h1>
+<h3 align="center">DevOps & Cloud Infrastructure Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ksaivishnusaikvs&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ksaivishnusaikvs&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
 ---
@@ -21,137 +19,81 @@
 
 <table>
   <tr>
-    <td width="60%">
+    <td width="50%">
       
-### Professional Focus
-- 🔹 **DevOps & Cloud Engineer**
-- 🔹 **Infrastructure Automation & Cloud FinOps**
-- 🔹 **AWS** | Kubernetes | Terraform | Docker | Ansible
-- 🔹 **CI/CD** | Linux | Git | AI/MLOps
+**🚀 Core Expertise**
 
-### Quick Links
-📂 **Projects:** [GitHub Repositories](https://github.com/ksaivishnusaikvs?tab=repositories)  
-📫 **Email:** vishnusai.vks@gmail.com  
-📄 **Profile Repo:** [ksaivishnusaikvs](https://github.com/ksaivishnusaikvs/ksaivishnusaikvs)  
+- DevOps & Cloud Architecture
+- Infrastructure as Code (Terraform, Ansible)
+- Kubernetes & Container Orchestration
+- CI/CD Pipeline Development
+- AWS Cloud Solutions
+- Linux & System Administration
+
+**📍 Connect**
+
+📂 [View Projects](https://github.com/ksaivishnusaikvs?tab=repositories)  
+📫 [vishnusai.vks@gmail.com](mailto:vishnusai.vks@gmail.com)  
+📄 [Profile Repository](https://github.com/ksaivishnusaikvs/ksaivishnusaikvs)
 
     </td>
-    <td width="40%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="Coding Animation" />
+    <td width="50%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="DevOps Engineer" width="100%" style="max-width: 350px;" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/vishnusai-14107a256/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="LinkedIn"
-         width="40"
-         height="40"
-         style="margin-right: 15px;"/>
-  </a>
-  <a href="mailto:vishnusai.vks@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
-         alt="Gmail"
-         width="40"
-         height="40"
-         style="margin-right: 15px;"/>
-  </a>
-  <a href="https://github.com/ksaivishnusaikvs" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-         alt="GitHub"
-         width="40"
-         height="40"/>
-  </a>
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
-### Cloud & Infrastructure
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" alt="AWS" title="AWS"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50" alt="Kubernetes" title="Kubernetes"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="50" alt="Terraform" title="Terraform"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" alt="Docker" title="Docker"/>
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="50" alt="Ansible" title="Ansible"/>
-</p>
+**Cloud & Infrastructure**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
-### CI/CD & DevOps Tools
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" alt="Jenkins" title="Jenkins"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" alt="Git" title="Git"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="50" alt="Grafana" title="Grafana"/>
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="50" alt="Elasticsearch" title="Elasticsearch"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" alt="GitHub Actions" title="GitHub Actions"/>
-</p>
+**CI/CD & Automation**  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub%20Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Programming & Scripting
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="50" alt="Bash" title="Bash"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Python" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" alt="Linux" title="Linux"/>
-</p>
+**Monitoring & Logging**  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F2CC0C?style=flat-square&logo=grafana&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elastic&logoColor=white)
 
-### Databases & Message Brokers
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" alt="MySQL" title="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" alt="MongoDB" title="MongoDB"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="50" alt="Kafka" title="Kafka"/>
-</p>
+**Languages & OS**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/ksaivishnusaikvs?label=Followers&style=for-the-badge&color=0077b6" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/ksaivishnusaikvs?label=Stars&style=for-the-badge&color=0077b6" alt="Stars"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/ksaivishnusaikvs/ksaivishnusaikvs?label=Commits&style=for-the-badge&color=00b4d8" alt="Commits"/>
-  <img src="https://img.shields.io/github/last-commit/ksaivishnusaikvs/ksaivishnusaikvs?label=Last%20Commit&style=for-the-badge&color=00b4d8" alt="Last Commit"/>
-</p>
+![Followers](https://img.shields.io/github/followers/ksaivishnusaikvs?label=Followers&style=flat-square&color=0e75b6)
+![Stars](https://img.shields.io/github/stars/ksaivishnusaikvs?label=Stars&style=flat-square&color=0e75b6)
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🤝 Connect with Me
 
-Check out my repositories for hands-on DevOps, Infrastructure as Code, and Cloud Engineering projects:
+<div align="center">
 
-- **Infrastructure Automation** - Terraform & Ansible configurations for multi-cloud deployments
-- **Kubernetes Orchestration** - Production-ready K8s manifests and Helm charts
-- **CI/CD Pipelines** - Jenkins and GitHub Actions workflows with automated testing
-- **Monitoring & Logging** - Grafana dashboards and ELK Stack configurations
-- **Cloud FinOps** - Cost optimization and resource management strategies
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnusai-14107a256/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vishnusai.vks@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/ksaivishnusaikvs)
 
-👉 [Explore All Projects](https://github.com/ksaivishnusaikvs?tab=repositories)
+</div>
 
 ---
 
-## 📈 Key Expertise
-
-| Area | Skills |
-|------|--------|
-| **Cloud Platforms** | AWS (EC2, S3, Lambda, RDS, IAM, VPC) |
-| **Container Orchestration** | Kubernetes, Docker Compose, Helm |
-| **Infrastructure as Code** | Terraform, CloudFormation, Ansible |
-| **CI/CD** | Jenkins, GitHub Actions, GitLab CI |
-| **Monitoring & Observability** | Prometheus, Grafana, ELK Stack |
-| **Scripting** | Bash, Python, Shell automation |
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with love"/>
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=for-the-badge" alt="Open to opportunities"/>
-</p>
-
-<p align="center">
-  <sub>Last updated: January 2025 | DevOps Engineer | Cloud Enthusiast</sub>
-</p>
+<div align="center">
+  <p><strong>⭐ If you find my work valuable, please give it a star!</strong></p>
+</div>
