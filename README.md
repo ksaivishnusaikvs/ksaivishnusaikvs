@@ -5,7 +5,7 @@
 <!-- ===== TOP BANNER ===== -->
 <p align="center">
   <a href="https://www.linkedin.com/in/vishnusai-14107a256/" target="_blank">
-    <img src="https://raw.githubusercontent.com/ksaivishnusaikvs/ksaivishnusaikvs/main/Banner.png" alt="DevOps Engineer Banner" width="100%" />
+    <img src="https://raw.githubusercontent.com/ksaivishnusaikvs/ksaivishnusaikvs/main/Banner.png.jpg" alt="DevOps Engineer Banner" width="100%" />
   </a>
 </p>
 
