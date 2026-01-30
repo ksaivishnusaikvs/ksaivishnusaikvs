@@ -1,16 +1,13 @@
 <!-- =============================== -->
 <!-- GitHub Profile README (FINAL)  -->
 <!-- =============================== -->
-
 <!-- ===== TOP BANNER ===== -->
 <p align="center">
   <a href="https://www.linkedin.com/in/vishnusai-14107a256/" target="_blank">
     <img src="./Banner.png.jpg" alt="DevOps Engineer Banner" width="100%" />
   </a>
 </p>
-
 <h2 align="center">Vishnu Sai — DevOps Engineer</h2>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ksaivishnusaikvs&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
@@ -18,6 +15,10 @@
 ---
 
 ## 👨‍💻 About Me
+
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding GIF" width="350" />
+</p>
 
 - 🔹 DevOps & Cloud Engineer
 - 🔹 Infrastructure Automation & Cloud FinOps
