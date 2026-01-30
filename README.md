@@ -14,15 +14,9 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/ksaivishnusaikvs">
-    <img src="https://komarev.com/ghpvc/?username=ksaivishnusaikvs&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" />
-  </a>
-  <a href="https://github.com/ksaivishnusaikvs?tab=followers">
-    <img src="https://img.shields.io/github/followers/ksaivishnusaikvs?label=Followers&style=flat-square&color=blue" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/ksaivishnusaikvs?tab=repositories">
-    <img src="https://img.shields.io/github/stars/ksaivishnusaikvs?label=Stars&style=flat-square&color=yellow" alt="GitHub stars" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ksaivishnusaikvs&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ksaivishnusaikvs?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/ksaivishnusaikvs?label=Stars&style=social" alt="GitHub stars" />
 </p>
 
 ---
@@ -92,9 +86,6 @@ current_projects:
   </a>
   <a href="https://github.com/ksaivishnusaikvs">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
 
@@ -202,52 +193,6 @@ current_projects:
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksaivishnusaikvs&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" width="100%">
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ksaivishnusaikvs&repo=your-project-1&theme=tokyonight&hide_border=true)](https://github.com/ksaivishnusaikvs/your-project-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ksaivishnusaikvs&repo=your-project-2&theme=tokyonight&hide_border=true)](https://github.com/ksaivishnusaikvs/your-project-2)
-
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [Building Scalable Infrastructure with Kubernetes](https://yourblog.com)
-- 🔐 [Implementing DevSecOps in CI/CD Pipelines](https://yourblog.com)
-- 💰 [Cloud Cost Optimization Strategies](https://yourblog.com)
-- 🤖 [Automating Infrastructure with Terraform](https://yourblog.com)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎓 Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified"/>
-  <img src="https://img.shields.io/badge/Kubernetes-CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA"/>
-  <img src="https://img.shields.io/badge/Terraform-Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Azure-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-</p>
-
----
-
-## 📫 Get in Touch
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vishnusai-14107a256/">
-    <img src="https://img.shields.io/badge/-Let's%20Connect-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:kvs.vishnusai@gmail.com">
-    <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
