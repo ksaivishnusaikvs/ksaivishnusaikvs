@@ -31,7 +31,7 @@
 - 🤖 **AIOps & MLOps** - Intelligent Operations & ML Pipelines
 - 📍 Based in **Hyderabad, India** 🇮🇳
 - 💼 **Available for Freelance** opportunities
-- 📧 Reach me: **kvs.vishnusai@gmail.com**
+- 📧 Reach me: **vishnusai.vks@gmail.com**
 - ☕ Fun fact: **I automate my coffee breaks!**
 
 ---
