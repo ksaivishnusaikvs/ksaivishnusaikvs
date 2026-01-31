@@ -30,7 +30,7 @@
 - 🔐 **DevSecOps** - Security Integration & Compliance
 - 🤖 **AIOps & MLOps** - Intelligent Operations & ML Pipelines
 - 📍 Based in **Hyderabad, India** 🇮🇳
-- 📧 Reach me: **vishnusai.vks@gmail.com**
+- 📧 Reach me: **vishnusai.vks@gmail.com** |https://www.linkedin.com/in/vishnusai-14107a256/
 
 ---
 
