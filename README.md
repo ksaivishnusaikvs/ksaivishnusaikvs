@@ -31,7 +31,9 @@
 - 🤖 **AIOps & MLOps** - Intelligent Operations & ML Pipelines
 - 📍 Based in **Hyderabad, India** 🇮🇳
 -  Get in Touch
-   📧 Email: vishnusai.vks@gmail.com
+
+    📧 Email: vishnusai.vks@gmail.com
+
    🔗 LinkedIn: https://www.linkedin.com/in/vishnusai-14107a256/
 ---
 
