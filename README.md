@@ -36,7 +36,8 @@
 
    🔗 LinkedIn: https://www.linkedin.com/in/vishnusai-14107a256/
    
-   📄 [![Resume](https://img.shields.io/badge/Resume-PDF-blue)](https://raw.githubusercontent.com/username/repo/main/VISHNUSAI.2+M.pdf)
+   📄 [![Resume](https://img.shields.io/badge/Resume-PDF-blue)](https://raw.githubusercontent.com/ksaivishnusaikvs/ksaivishnusaikvs/main/VISHNUSAI.2+M.pdf)
+
 ---
 
 ## 🎯 Current Focus
