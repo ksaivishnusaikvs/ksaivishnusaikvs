@@ -35,6 +35,8 @@
     📧 Email: vishnusai.vks@gmail.com
 
    🔗 LinkedIn: https://www.linkedin.com/in/vishnusai-14107a256/
+   
+   📄 [![Resume](https://img.shields.io/badge/Resume-PDF-blue)](https://raw.githubusercontent.com/username/repo/main/VISHNUSAI.2+M.pdf)
 ---
 
 ## 🎯 Current Focus
@@ -54,9 +56,9 @@ expertise:
     containers: [Docker, Kubernetes, Helm]
     iac: [Terraform, CloudFormation, Pulumi]
     cicd: [Jenkins, GitLab CI, GitHub Actions, ArgoCD]
-    config_mgmt: [Ansible, Chef, Puppet]
+    config_mgmt: [Ansible,]
     monitoring: [Prometheus, Grafana, ELK Stack]
-    scripting: [Python, Bash, PowerShell]
+    scripting: [Python, Bash,]
 
 currently_learning:
   - Advanced Kubernetes Patterns & Service Mesh (Istio/Linkerd)
