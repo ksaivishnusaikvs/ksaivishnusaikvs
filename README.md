@@ -38,7 +38,7 @@
       
    📝 Blog ID: https://hashnode.com/@vishnusaiK
    
-   📄 [![Resume](https://img.shields.io/badge/Resume-PDF-blue)](https://raw.githubusercontent.com/ksaivishnusaikvs/ksaivishnusaikvs/main/VISHNUSAI.2+M.pdf)
+   📄 [![Resume](https://img.shields.io/badge/Resume-PDF-blue)](https://raw.githubusercontent.com/ksaivishnusaikvs/ksaivishnusaikvs/main/VISHNU_SAI_RESUME.3Y.pdf)
 
 ---
 
