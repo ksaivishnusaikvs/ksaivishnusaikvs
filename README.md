@@ -32,13 +32,13 @@
 - 📍 Based in **Hyderabad, India** 🇮🇳
 -  Get in Touch
 
-    📧 Email: vishnusai.vks@gmail.com
+   📧 Email: vishnusai.vks@gmail.com • 💬 Google Chat: vishnusai.vks@gmail.com
 
    🔗 LinkedIn: https://www.linkedin.com/in/vishnusai-14107a256/
       
    📝 Blog ID: https://hashnode.com/@vishnusaiK
    
-   📄 [![Resume](https://img.shields.io/badge/Resume-PDF-blue)](https://raw.githubusercontent.com/ksaivishnusaikvs/ksaivishnusaikvs/main/VISHNU_SAI_RESUME.3Y.pdf)
+   📄 [![Resume](https://img.shields.io/badge/Resume-PDF-blue)](https://raw.githubusercontent.com/ksaivishnusaikvs/ksaivishnusaikvs/main/VISHNU_SAI_RESUME.3Y.pdf) 
 
 ---
 
