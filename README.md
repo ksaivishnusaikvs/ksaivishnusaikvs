@@ -35,6 +35,8 @@
     📧 Email: vishnusai.vks@gmail.com
 
    🔗 LinkedIn: https://www.linkedin.com/in/vishnusai-14107a256/
+      
+   📝 Blog ID: https://hashnode.com/@vishnusaiK
    
    📄 [![Resume](https://img.shields.io/badge/Resume-PDF-blue)](https://raw.githubusercontent.com/ksaivishnusaikvs/ksaivishnusaikvs/main/VISHNUSAI.2+M.pdf)
 
