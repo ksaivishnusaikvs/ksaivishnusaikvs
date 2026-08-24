@@ -48,7 +48,7 @@
 role: DevOps & Cloud Engineer | XOps Specialist
 expertise:
   primary:
-    - 🔧 DevOps Engineering (CI/CD, IaC, Automation)
+    - 🔧 DevOps Engineering (CI/CD, IaC, Automation, Kubernetes,)
     - 🔐 DevSecOps (Security, Compliance)
     - 💰 FinOps (Cloud Cost Management)
     - 🤖 AIOps (Intelligent Operations)
